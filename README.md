@@ -4,6 +4,7 @@ based on [Manybotslib](https://github.com/Senderman/manybotslib)
 
 ### Installation:
 `pip install -e git://github.com/drforse/aiogram_many_bots_lib#egg=aiomanybots`
+When using requirements.txt `git+git://github.com/drforse/aiogram_many_bots_lib#egg=aiomanybots`
 ### Uninstallation:
 `pip uninstall aiomanybots`
 
